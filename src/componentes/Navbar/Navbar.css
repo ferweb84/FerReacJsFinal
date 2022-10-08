@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.grow{flex-grow: 1;
+    background-color: blueviolet;
+    box-shadow: none;
+}
+.button {
+    margin-left:unset;
+}
+.navbar{
+
+color: black ;
+position:sticky;
+margin-top:20px ;
+}
+
+.buttonImage {
+    margin-right: 10px;
+    height: 1rem;
+}

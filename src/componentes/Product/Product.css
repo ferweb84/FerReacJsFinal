@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+background-color:rgb(190, 103, 72);
+color: black;
+margin-top:50px ;
+margin-left: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
